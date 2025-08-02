@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "title": "Binary Search Tree",
+      "img": "/image/binarytreestock.jpg",
+      "alt": "Visualization of a binary search tree",
+      "desc": "Implementation of Binary Search Tree (BST) and showcasing its elements",
+      "url": "https://github.com/marknguyen004/Binary-Search-Tree.git"
+    },
+    {
+      "title": "Bloom Filters & Count-Min Sketch",
+      "img": "/image/keystock.jpg",
+      "alt": "Bloom Filter key illustration",
+      "desc": "Demonstrating Hasing Data Structures with a Bloom Filter and Count-Min Sketch",
+      "url": "https://github.com/marknguyen004/Hashing.git"
+    },
+    {
+      "title": "Burrows-Wheeler Transform",
+      "img": "/image/stringdoll.jpg",
+      "alt": "String transformation illustration",
+      "desc": "Illustrating fast string searching with Burrows-Wheeler Transform",
+      "url": "https://github.com/marknguyen004/Burrows-Wheeler-Transform.git"
+    }
+  ]
+}
